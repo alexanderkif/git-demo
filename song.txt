@@ -3,5 +3,3 @@ second string
 third string
 
 line four
-
-line five
