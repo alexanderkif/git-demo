@@ -5,3 +5,5 @@ third string
 line four
 
 line five in branch feature
+
+line six in feature
